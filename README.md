@@ -1,4 +1,4 @@
-# Arduino-offline-timezone-finder
+# Arduino offline timezone finder
 Find time zone offset with just gps coordinates, without internet connection.
 
 This is a port of [ESP32-Timezone-Finder-Component](https://github.com/HarryVienna/ESP32-Timezone-Finder-Component) with database from [ESP32-Timezone-Database-Generator](https://github.com/HarryVienna/ESP32-Timezone-Database-Generator)
